@@ -2,4 +2,4 @@
 First repository
 Hi! 
 I'm Nishant. I'm learner. 
-#GitTutorials
+#GitHubTutorials
